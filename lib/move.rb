@@ -22,4 +22,3 @@ def move(board, index, player)
 end
 
 {move(board, 0, "X")}
-
