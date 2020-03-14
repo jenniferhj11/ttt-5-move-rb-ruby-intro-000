@@ -21,4 +21,5 @@ def move(board, index, player)
    board[index] = player
 end
 
-move(board, 0, "X")
+{move(board, 0, "X")}
+
